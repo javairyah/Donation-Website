@@ -1,1 +1,2 @@
 # Donation-Website
+Design a responsive website known as "DONATION" with the help of JavaScript, HTML, CSS, Bootstrap. There will be a simple donate button on homepage. On clicking the donate button, the user will land on the donation form where user can enter the amount to be paid and the payment type is credit card / debit card. Once the payment is done and invoice is generated and email will be sent.
